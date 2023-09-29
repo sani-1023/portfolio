@@ -4,6 +4,7 @@ import Ecommerce from '../assets/projects/Ecommerce.png'
 import Probaho from '../assets/projects/Probaho.png'
 import Evote from '../assets/projects/Evote.png'
 import CV from '../assets/projects/CV1.jpg'
+import URL from '../assets/projects/url_shortener.png'
 
 export const data=[
     {
@@ -32,6 +33,13 @@ export const data=[
         name:"CV_Analyzer",
         image:CV,
         github:"https://github.com/sani-1023/CV_analysis_ML",
+        
+    },
+    {
+        id:5,
+        name:"URL_shortener",
+        image:URL,
+        github:"https://github.com/sani-1023/url_shortener",
         
     },
 
